@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Yui',
   author: 'Yui',
   email: '714893383@qq.com',
-  link: 'http://notion.baojunqi.cn',
+ // link: 'http://notion.baojunqi.cn',
   description: 'This gonna be an awesome website.',
   lang: 'en-US',
   appearance: 'auto', // ['light', 'dark', 'auto'],
