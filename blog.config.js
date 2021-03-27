@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: 'Yui',
   author: 'Yui',
   email: '714893383@qq.com',
   link: 'http://notion.baojunqi.cn',
